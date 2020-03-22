@@ -4,6 +4,8 @@ html, body {
 
     padding: 0;
     margin: 0;
+
+    color: #222;
 }
 
 .header {
@@ -19,4 +21,22 @@ html, body {
 
     padding-top: 3vh;
     padding-bottom: 3vh;
+}
+
+.info {
+    width: 100%;
+    background-color: #eee;
+    font-size: 1.2em;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+.large {
+    font-size: 2em;
+}
+.content {
+    padding-left: 12.5%;
+    width: 75%;
+    padding-top: 4vh;
 }
