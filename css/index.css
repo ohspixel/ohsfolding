@@ -40,3 +40,10 @@ html, body {
     width: 75%;
     padding-top: 4vh;
 }
+a {
+    color: #008;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
